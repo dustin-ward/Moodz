@@ -1,0 +1,6 @@
+[submodule "CYH2021-Frontend"]
+	path = CYH2021-Frontend
+	url = https://github.com/dustin-ward/CYH2021-Frontend
+[submodule "CYH2021-Backend"]
+	path = CYH2021-Backend
+	url = https://github.com/dustin-ward/CYH2021-Backend
